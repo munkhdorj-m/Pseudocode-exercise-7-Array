@@ -4,38 +4,37 @@
 
 ## Exercise 1
 
-Find average of list elements.
+Check if given string is in an array.
 
     Example:
-    Input: [1,2,3,4,5] 
-    Output: 3
-
+    Input: ["Hi","Code","World","Eat","Sleep"], Search="Hi"
+    Output: Yes
+    Input: ["World","Eat","Sleep"], Search="Hi"
+    Output: No
 
 ## Exercise 2
 
-Find smallest element in a list.
-
-    Example:
-    Input: [1,4,8,10,15]
-    Output: 1
+Generate 20 numbers that are strictly larger than previous number and add them to an array. 
 
     
 ## Exercise 3
 
-Find index number of highest number. Suppose index starts from 1.
+Declare 2 array, then calculate the average of three consecutive values from Array1 and insert the result to Array2.
 
     Example:
-    Input: [1,5,9,3,4]
-    Output: 3
+    Input: [1,2,3,4,5,6,7,8,9]
+    Output: [2,5,8]
 
 
 ## Exercise 4
 
-Reverse the elements of a array in place.
+Find the index of an given element in an array. Suppose index starts from 1.
 
     Example:
-    Input: [1,2,3,4,5]
-    Output: [5,4,3,2,1]
+    Input: [1,2,3,4,5] Search=4
+    Output: 4
+    Input: [1,2,3,4,5] Search=10
+    Output: -1
 ---
 
 
