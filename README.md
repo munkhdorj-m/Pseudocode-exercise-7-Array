@@ -1,4 +1,4 @@
-# Pseudocode Exercise 6 Array
+# Pseudocode Exercise 7 Array
 
 ---
 
@@ -28,11 +28,11 @@ Declare 2 array, then calculate the average of three consecutive values from Arr
 
 ## Exercise 4
 
-Find the index of an given element in an array. Suppose index starts from 1.
+Find the index of an given element in an array. Suppose index starts from 0.
 
     Example:
     Input: [1,2,3,4,5] Search=4
-    Output: 4
+    Output: 3
     Input: [1,2,3,4,5] Search=10
     Output: -1
 ---
